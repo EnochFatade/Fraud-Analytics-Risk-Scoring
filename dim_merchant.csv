@@ -1,0 +1,120 @@
+merchant_id,merchant_name,mcc_code,category,merchant_risk_tier,country,created_at
+MER-10001,Merchant 001 - Digital Services,5698,Digital Services,LOW,US,2019-08-17 23:17:19
+MER-10002,Merchant 002 - Grocery,4555,Grocery,MED,US,2017-03-10 18:17:32
+MER-10003,Merchant 003 - Electronics,5673,Electronics,LOW,US,2021-03-15 09:59:20
+MER-10004,Merchant 004 - Entertainment,5177,Entertainment,MED,US,2018-08-29 04:36:16
+MER-10005,Merchant 005 - Pharmacy,5698,Pharmacy,MED,FR,2023-05-20 12:43:45
+MER-10006,Merchant 006 - Travel,4649,Travel,LOW,US,2017-09-21 06:00:18
+MER-10007,Merchant 007 - Grocery,5165,Grocery,MED,US,2017-03-13 10:28:44
+MER-10008,Merchant 008 - Apparel,5637,Apparel,LOW,JP,2018-07-06 13:25:35
+MER-10009,Merchant 009 - Luxury Retail,5464,Luxury Retail,MED,FR,2022-08-06 05:11:48
+MER-10010,Merchant 010 - Travel,4283,Travel,LOW,US,2025-10-08 10:12:20
+MER-10011,Merchant 011 - Grocery,4552,Grocery,HIGH,US,2019-01-09 18:23:05
+MER-10012,Merchant 012 - Electronics,5507,Electronics,LOW,US,2020-09-02 00:58:54
+MER-10013,Merchant 013 - Entertainment,5733,Entertainment,LOW,US,2023-08-07 12:48:20
+MER-10014,Merchant 014 - Money Transfer,5820,Money Transfer,MED,US,2020-07-15 21:30:05
+MER-10015,Merchant 015 - Restaurant,4482,Restaurant,HIGH,US,2021-03-09 14:33:46
+MER-10016,Merchant 016 - Pharmacy,4657,Pharmacy,MED,US,2019-08-04 02:07:02
+MER-10017,Merchant 017 - Home Improvement,4998,Home Improvement,LOW,US,2024-10-14 09:44:30
+MER-10018,Merchant 018 - Gas Station,5397,Gas Station,LOW,US,2024-06-10 21:21:03
+MER-10019,Merchant 019 - Entertainment,4240,Entertainment,HIGH,US,2021-02-25 16:31:19
+MER-10020,Merchant 020 - Money Transfer,5095,Money Transfer,HIGH,GB,2020-11-19 15:22:27
+MER-10021,Merchant 021 - Pharmacy,5709,Pharmacy,MED,US,2021-01-30 23:01:59
+MER-10022,Merchant 022 - Gas Station,4956,Gas Station,MED,US,2020-01-12 22:56:01
+MER-10023,Merchant 023 - Travel,4948,Travel,HIGH,US,2025-04-08 03:12:12
+MER-10024,Merchant 024 - Digital Services,5136,Digital Services,LOW,US,2017-12-15 12:49:59
+MER-10025,Merchant 025 - Grocery,5857,Grocery,MED,US,2018-06-28 22:54:42
+MER-10026,Merchant 026 - Grocery,5539,Grocery,MED,BR,2017-05-01 02:46:40
+MER-10027,Merchant 027 - Travel,5364,Travel,MED,US,2018-07-26 07:21:21
+MER-10028,Merchant 028 - Luxury Retail,5916,Luxury Retail,LOW,US,2018-03-23 09:33:29
+MER-10029,Merchant 029 - Apparel,5923,Apparel,LOW,US,2024-02-27 13:42:07
+MER-10030,Merchant 030 - Travel,4251,Travel,HIGH,US,2023-08-22 19:18:20
+MER-10031,Merchant 031 - Electronics,5759,Electronics,MED,US,2024-12-15 12:04:10
+MER-10032,Merchant 032 - Gas Station,4762,Gas Station,HIGH,US,2022-03-08 08:59:30
+MER-10033,Merchant 033 - Digital Services,4016,Digital Services,LOW,US,2023-10-04 01:24:09
+MER-10034,Merchant 034 - Grocery,4887,Grocery,LOW,US,2023-05-23 10:59:10
+MER-10035,Merchant 035 - Entertainment,5983,Entertainment,LOW,FR,2025-04-14 00:30:31
+MER-10036,Merchant 036 - Electronics,4546,Electronics,MED,US,2022-09-19 13:31:37
+MER-10037,Merchant 037 - Electronics,4785,Electronics,LOW,US,2020-11-07 06:22:12
+MER-10038,Merchant 038 - Home Improvement,4387,Home Improvement,LOW,US,2024-02-07 08:21:45
+MER-10039,Merchant 039 - Ride Share,5354,Ride Share,MED,US,2024-04-11 01:35:57
+MER-10040,Merchant 040 - Money Transfer,4359,Money Transfer,MED,US,2017-07-12 06:19:05
+MER-10041,Merchant 041 - Pharmacy,4618,Pharmacy,MED,US,2020-12-12 17:37:34
+MER-10042,Merchant 042 - Entertainment,4001,Entertainment,MED,US,2019-12-06 10:12:46
+MER-10043,Merchant 043 - Restaurant,4756,Restaurant,LOW,AU,2023-06-30 16:33:40
+MER-10044,Merchant 044 - Money Transfer,4572,Money Transfer,MED,US,2021-04-21 22:47:30
+MER-10045,Merchant 045 - Home Improvement,4605,Home Improvement,MED,US,2020-10-18 15:03:33
+MER-10046,Merchant 046 - Apparel,5323,Apparel,LOW,US,2018-10-13 03:06:19
+MER-10047,Merchant 047 - Grocery,5014,Grocery,LOW,US,2023-11-18 20:55:12
+MER-10048,Merchant 048 - Home Improvement,4683,Home Improvement,LOW,US,2018-06-29 19:33:50
+MER-10049,Merchant 049 - Electronics,5723,Electronics,HIGH,US,2022-09-07 05:19:40
+MER-10050,Merchant 050 - Luxury Retail,5207,Luxury Retail,MED,US,2021-09-17 09:05:24
+MER-10051,Merchant 051 - Entertainment,4441,Entertainment,HIGH,US,2025-06-22 21:00:57
+MER-10052,Merchant 052 - Gas Station,5208,Gas Station,LOW,US,2019-08-31 21:26:44
+MER-10053,Merchant 053 - Luxury Retail,5819,Luxury Retail,HIGH,US,2023-11-12 07:32:40
+MER-10054,Merchant 054 - Grocery,5980,Grocery,HIGH,MX,2021-10-11 01:02:32
+MER-10055,Merchant 055 - Pharmacy,4303,Pharmacy,HIGH,US,2020-03-06 08:51:51
+MER-10056,Merchant 056 - Restaurant,5337,Restaurant,LOW,US,2023-02-12 07:11:21
+MER-10057,Merchant 057 - Grocery,5082,Grocery,LOW,US,2023-07-30 19:16:55
+MER-10058,Merchant 058 - Electronics,4343,Electronics,MED,US,2024-03-02 01:03:15
+MER-10059,Merchant 059 - Gas Station,5873,Gas Station,MED,US,2023-01-24 00:04:38
+MER-10060,Merchant 060 - Gas Station,4051,Gas Station,LOW,IN,2025-01-21 10:45:50
+MER-10061,Merchant 061 - Money Transfer,5924,Money Transfer,LOW,US,2017-08-04 18:06:29
+MER-10062,Merchant 062 - Travel,5881,Travel,LOW,US,2024-12-29 20:12:19
+MER-10063,Merchant 063 - Restaurant,4733,Restaurant,LOW,FR,2022-11-03 17:53:52
+MER-10064,Merchant 064 - Luxury Retail,5988,Luxury Retail,MED,US,2025-03-05 01:42:16
+MER-10065,Merchant 065 - Digital Services,4427,Digital Services,HIGH,US,2021-08-17 00:28:29
+MER-10066,Merchant 066 - Restaurant,4195,Restaurant,MED,US,2021-10-19 11:57:26
+MER-10067,Merchant 067 - Restaurant,5036,Restaurant,LOW,US,2023-07-29 15:23:45
+MER-10068,Merchant 068 - Luxury Retail,4439,Luxury Retail,LOW,US,2018-09-22 02:40:35
+MER-10069,Merchant 069 - Home Improvement,5880,Home Improvement,LOW,US,2017-02-28 19:40:08
+MER-10070,Merchant 070 - Entertainment,4334,Entertainment,MED,US,2020-10-02 03:58:03
+MER-10071,Merchant 071 - Electronics,4533,Electronics,LOW,US,2018-12-14 14:37:03
+MER-10072,Merchant 072 - Apparel,4592,Apparel,MED,US,2025-03-08 23:28:17
+MER-10073,Merchant 073 - Electronics,4291,Electronics,LOW,US,2017-04-20 22:00:04
+MER-10074,Merchant 074 - Electronics,5430,Electronics,MED,US,2025-03-02 17:44:11
+MER-10075,Merchant 075 - Entertainment,4377,Entertainment,HIGH,US,2019-12-04 23:10:38
+MER-10076,Merchant 076 - Luxury Retail,4338,Luxury Retail,MED,US,2023-01-08 00:11:58
+MER-10077,Merchant 077 - Gas Station,5231,Gas Station,LOW,US,2018-10-28 02:04:50
+MER-10078,Merchant 078 - Travel,5201,Travel,LOW,US,2019-06-11 22:11:58
+MER-10079,Merchant 079 - Electronics,5911,Electronics,LOW,US,2022-08-21 01:03:52
+MER-10080,Merchant 080 - Entertainment,5814,Entertainment,MED,US,2019-09-05 12:48:09
+MER-10081,Merchant 081 - Gas Station,4874,Gas Station,MED,US,2025-07-26 05:15:50
+MER-10082,Merchant 082 - Pharmacy,5360,Pharmacy,LOW,US,2020-02-24 13:04:05
+MER-10083,Merchant 083 - Gas Station,5987,Gas Station,MED,US,2025-11-21 15:22:35
+MER-10084,Merchant 084 - Entertainment,4213,Entertainment,HIGH,US,2017-04-15 18:36:51
+MER-10085,Merchant 085 - Ride Share,5703,Ride Share,LOW,US,2020-12-22 04:08:57
+MER-10086,Merchant 086 - Money Transfer,5855,Money Transfer,LOW,US,2025-04-16 09:14:12
+MER-10087,Merchant 087 - Gas Station,4686,Gas Station,MED,US,2025-01-06 14:58:07
+MER-10088,Merchant 088 - Electronics,5333,Electronics,MED,US,2022-11-17 22:35:02
+MER-10089,Merchant 089 - Travel,4943,Travel,LOW,US,2020-07-08 12:41:26
+MER-10090,Merchant 090 - Home Improvement,5346,Home Improvement,HIGH,US,2023-12-27 11:35:00
+MER-10091,Merchant 091 - Electronics,4775,Electronics,LOW,US,2019-09-19 09:02:12
+MER-10092,Merchant 092 - Pharmacy,5832,Pharmacy,MED,DE,2020-08-08 13:10:37
+MER-10093,Merchant 093 - Electronics,5549,Electronics,LOW,US,2024-08-25 03:34:10
+MER-10094,Merchant 094 - Gas Station,5364,Gas Station,HIGH,US,2026-01-22 03:48:10
+MER-10095,Merchant 095 - Home Improvement,4674,Home Improvement,MED,US,2024-04-03 02:40:39
+MER-10096,Merchant 096 - Grocery,4250,Grocery,LOW,US,2023-04-12 13:09:20
+MER-10097,Merchant 097 - Digital Services,5296,Digital Services,HIGH,US,2024-07-30 01:39:43
+MER-10098,Merchant 098 - Apparel,4166,Apparel,HIGH,US,2023-03-28 01:45:18
+MER-10099,Merchant 099 - Gas Station,4294,Gas Station,MED,US,2022-03-07 17:43:49
+MER-10100,Merchant 100 - Grocery,4436,Grocery,MED,US,2018-05-12 11:25:57
+MER-10101,Merchant 101 - Travel,5376,Travel,MED,US,2018-01-02 07:49:48
+MER-10102,Merchant 102 - Travel,5500,Travel,HIGH,US,2018-09-05 18:59:27
+MER-10103,Merchant 103 - Gas Station,5714,Gas Station,LOW,NG,2018-06-10 01:32:18
+MER-10104,Merchant 104 - Electronics,4265,Electronics,MED,US,2024-05-12 06:43:05
+MER-10105,Merchant 105 - Restaurant,5782,Restaurant,LOW,US,2021-10-02 09:19:43
+MER-10106,Merchant 106 - Luxury Retail,5173,Luxury Retail,HIGH,US,2025-02-06 08:41:38
+MER-10107,Merchant 107 - Gas Station,4309,Gas Station,LOW,US,2020-12-09 10:47:50
+MER-10108,Merchant 108 - Luxury Retail,5230,Luxury Retail,HIGH,US,2019-02-28 03:41:38
+MER-10109,Merchant 109 - Pharmacy,4735,Pharmacy,LOW,US,2024-04-10 07:52:32
+MER-10110,Merchant 110 - Restaurant,4626,Restaurant,MED,US,2022-05-30 17:37:25
+MER-10111,Merchant 111 - Restaurant,4715,Restaurant,HIGH,US,2018-09-09 17:40:59
+MER-10112,Merchant 112 - Restaurant,4843,Restaurant,MED,US,2022-02-16 09:47:20
+MER-10113,Merchant 113 - Entertainment,5394,Entertainment,MED,US,2020-03-15 03:53:58
+MER-10114,Merchant 114 - Entertainment,5556,Entertainment,LOW,US,2020-12-09 13:35:07
+MER-10115,Merchant 115 - Luxury Retail,5790,Luxury Retail,LOW,US,2017-01-18 00:55:36
+MER-10116,Merchant 116 - Luxury Retail,5643,Luxury Retail,LOW,BR,2023-02-13 19:50:50
+MER-10117,Merchant 117 - Pharmacy,5218,Pharmacy,LOW,IN,2022-12-04 00:55:49
+MER-10118,Merchant 118 - Electronics,5034,Electronics,HIGH,US,2024-06-21 16:41:11
+MER-10119,Merchant 119 - Entertainment,5604,Entertainment,HIGH,US,2024-03-26 18:51:18
