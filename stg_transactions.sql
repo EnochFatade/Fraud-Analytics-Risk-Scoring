@@ -1,6 +1,10 @@
 -- Purpose:
--- Define fraud rule logic and severity classification.
--- Rules are evaluated at the transaction level and stored
--- in the fraud_rule_hits fact table.
--- Severity thresholds (HIGH / MED) are configured in Rule_Config.
-}
+-- Stage and normalize raw transaction data for downstream analytics.
+-- Typical staging steps would include:
+--   - Standardizing timestamps and data types
+--   - Normalizing geographic fields (country/region/city)
+--   - Deriving helper flags (e.g., is_international)
+--   - Filtering out invalid or incomplete records
+--
+-- In this portfolio project, staging logic is prototyped in Google Sheets.
+-- This file documents what would normally be implemented as SQL in a database.
