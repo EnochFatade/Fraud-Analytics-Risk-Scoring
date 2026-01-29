@@ -1,14 +1,12 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2639
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 -- Purpose:\
--- Generate aggregated fraud metrics for operational reporting.\
--- Outputs include KPIs, rule effectiveness metrics,\
--- and account-level fraud monitoring views.\
---\
--- Final reporting is surfaced in the Fraud Operations Summary dashboard.\
-}
+-- Purpose:
+-- Produce reporting tables/queries that power the Fraud Operations Summary dashboard.
+-- Typical outputs include:
+--   - Executive KPIs (volume, declines, total rule hits, severity counts)
+--   - Highest risk accounts (ranked by risk_score and tier)
+--   - Rule effectiveness (total hits, high/med mix, high-rate)
+--   - Activity over time (rule hits by monitoring window)
+--   - Account-level and customer-level fraud activity rollups
+--
+-- In this portfolio project, reporting is assembled in Google Sheets as the
+-- Fraud Operations Summary dashboard, with supporting screenshots exported to /screenshots.
+-- This file documents what would normally be implemented as SQL views or reporting tables.
